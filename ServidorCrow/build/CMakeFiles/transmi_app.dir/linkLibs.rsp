@@ -1,1 +1,0 @@
- "D:/dev/vcpkg/installed/x64-mingw-dynamic/debug/lib/libpqxx.dll.a" "D:/dev/vcpkg/installed/x64-mingw-dynamic/lib/libssl.dll.a" "D:/dev/vcpkg/installed/x64-mingw-dynamic/lib/libcrypto.dll.a" -lwsock32 -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,3 +1,0 @@
-D:/Trabajos u/Proyectos/Transmi/build/CMakeFiles/transmi_app.dir
-D:/Trabajos u/Proyectos/Transmi/build/CMakeFiles/edit_cache.dir
-D:/Trabajos u/Proyectos/Transmi/build/CMakeFiles/rebuild_cache.dir

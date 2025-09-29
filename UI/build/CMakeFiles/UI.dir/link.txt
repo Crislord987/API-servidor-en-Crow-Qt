@@ -1,3 +1,0 @@
-D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\UI.dir/objects.a
-D:\Qt\Tools\llvm-mingw1706_64\bin\llvm-ar.exe qc CMakeFiles\UI.dir/objects.a @CMakeFiles\UI.dir\objects1.rsp
-D:\Qt\Tools\llvm-mingw1706_64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\UI.dir/objects.a -Wl,--no-whole-archive -o UI.exe -Wl,--out-implib,libUI.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UI.dir\linkLibs.rsp

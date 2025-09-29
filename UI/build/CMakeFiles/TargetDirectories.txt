@@ -1,5 +1,0 @@
-D:/Trabajos u/Proyectos/API_UI/UI/build/CMakeFiles/UI.dir
-D:/Trabajos u/Proyectos/API_UI/UI/build/CMakeFiles/edit_cache.dir
-D:/Trabajos u/Proyectos/API_UI/UI/build/CMakeFiles/rebuild_cache.dir
-D:/Trabajos u/Proyectos/API_UI/UI/build/CMakeFiles/UI_autogen_timestamp_deps.dir
-D:/Trabajos u/Proyectos/API_UI/UI/build/CMakeFiles/UI_autogen.dir
